@@ -16,13 +16,30 @@
 
 ## 프로젝트
 
-| 프로젝트 | 소개 | 스택 |
-|---|---|---|
-| **[stock-pro](https://github.com/choslion/stock-pro)** | 투자 지표 대시보드 — 순차 API 호출을 일괄 처리로 바꿔 캐시 미스 시 로딩 **5–8배 단축** | React · TypeScript · Vite · Recharts |
-| **[생활계산소](https://github.com/choslion/living-calculator)** | 생활 도구 모음 + 방 가구 시뮬레이터(2D 편집 → 3D 뷰) — 디자인 토큰, 로직/UI 계층 분리 | React · TypeScript · React Three Fiber · Vitest · Playwright |
-| **[ssok-app](https://github.com/choslion/ssok-app)** | 서버 없이 브라우저에만 저장하는 로컬 우선 "디지털 서랍" PWA | Nuxt 4 · IndexedDB · PWA |
+<table>
+  <tr>
+    <th align="left" width="140">프로젝트</th>
+    <th align="left">소개</th>
+    <th align="left">스택</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/choslion/stock-pro"><b>stock-pro</b></a></td>
+    <td>투자 지표 대시보드 — 순차 API 호출을 일괄 처리로 바꿔 캐시 미스 시 로딩 <b>5–8배 단축</b></td>
+    <td>React · TypeScript · Vite · Recharts</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/choslion/living-calculator"><b>생활계산소</b></a></td>
+    <td>생활 도구 모음 + 방 가구 시뮬레이터(2D 편집 → 3D 뷰) — 디자인 토큰, 로직/UI 계층 분리</td>
+    <td>React · TypeScript · React Three Fiber · Vitest · Playwright</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/choslion/ssok-app"><b>ssok-app</b></a></td>
+    <td>서버 없이 브라우저에만 저장하는 로컬 우선 "디지털 서랍" PWA</td>
+    <td>Nuxt 4 · IndexedDB · PWA</td>
+  </tr>
+</table>
 
 ## 기술
 
-**Frontend** — TypeScript · JavaScript · React · Vue.js · HTML5 · CSS3 / SCSS · jQuery
+**Frontend** — TypeScript · JavaScript · React · Vue.js · HTML5 · CSS3 / SCSS · jQuery<br>
 **Tooling** — GitHub Actions · Vitest · Playwright · Storybook · Figma · Zeplin · JIRA · Confluence
