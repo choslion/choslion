@@ -26,3 +26,4 @@
 
 **Frontend** — TypeScript · JavaScript · React · Vue.js · HTML5 · CSS3 / SCSS · jQuery
 **Tooling** — GitHub Actions · Vitest · Playwright · Storybook · Figma · Zeplin · JIRA
+
